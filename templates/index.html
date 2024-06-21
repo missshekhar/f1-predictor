@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>F1 Race Outcome Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>F1 Race Outcome Prediction</h1>
+        <form action="/" method="post">
+
+            <label for="driver">Choose a Driver:</label>
+            <input type="text" id="driver" name="driver" required><br><br>
+
+            <label for="constructor">Choose a Constructor:</label>
+            <input type="text" id="constructor" name="constructor" required><br><br>
+            
+            <label for="circuit">Choose a Circuit:</label>
+            <input type="text" id="circuit" name="circuit" required><br><br>
+
+            <label for="grid">Starting Grid Position:</label>
+            <input type="number" id="grid" name="grid" min="1" required><br><br>
+
+            <label for="season">Season:</label>
+            <input type="number" id="season" name="season" min="2000" max="2024" required><br><br>
+
+            <input type="submit" value="Predict">
+        </form>
+
+        {% if prediction_result is not none %}
+        <div class="prediction-result">
+            <h2>Predicted Final Position:</h2>
+            <p>{{ prediction_result }}</p>
+            <p>Confidence Score: {{ confidence_score }}</p>
+        </div>
+        {% endif %}
+        
+        {% with messages = get_flashed_messages() %}
+        {% if messages %}
+        <div class="flash-messages">
+            {% for message in messages %}
+            <p>{{ message }}</p>
+            {% endfor %}
+        </div>
+        {% endif %}
+        {% endwith %}
+    </div>
+</body>
+</html>

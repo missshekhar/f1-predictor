@@ -1,0 +1,691 @@
+Circuit,Constructor,Grid,Position
+Albert Park Grand Prix Circuit,ferrari,3,1
+Albert Park Grand Prix Circuit,ferrari,4,2
+Albert Park Grand Prix Circuit,williams,11,3
+Albert Park Grand Prix Circuit,bar,8,4
+Albert Park Grand Prix Circuit,benetton,9,5
+Albert Park Grand Prix Circuit,bar,16,6
+Albert Park Grand Prix Circuit,benetton,14,7
+Albert Park Grand Prix Circuit,minardi,18,8
+Albert Park Grand Prix Circuit,prost,15,9
+Albert Park Grand Prix Circuit,sauber,10,10
+Albert Park Grand Prix Circuit,williams,21,11
+Albert Park Grand Prix Circuit,sauber,19,12
+Albert Park Grand Prix Circuit,minardi,22,13
+Albert Park Grand Prix Circuit,jordan,5,14
+Albert Park Grand Prix Circuit,jordan,6,15
+Albert Park Grand Prix Circuit,prost,17,16
+Albert Park Grand Prix Circuit,mclaren,1,17
+Albert Park Grand Prix Circuit,arrows,13,18
+Albert Park Grand Prix Circuit,mclaren,2,19
+Albert Park Grand Prix Circuit,arrows,12,20
+Albert Park Grand Prix Circuit,jaguar,7,21
+Albert Park Grand Prix Circuit,jaguar,20,22
+Autódromo José Carlos Pace,ferrari,3,1
+Autódromo José Carlos Pace,benetton,5,2
+Autódromo José Carlos Pace,jordan,7,3
+Autódromo José Carlos Pace,jordan,12,4
+Autódromo José Carlos Pace,williams,11,5
+Autódromo José Carlos Pace,williams,9,6
+Autódromo José Carlos Pace,arrows,14,7
+Autódromo José Carlos Pace,arrows,16,8
+Albert Park Grand Prix Circuit,ferrari,1,1
+Albert Park Grand Prix Circuit,mclaren,6,2
+Albert Park Grand Prix Circuit,ferrari,2,3
+Albert Park Grand Prix Circuit,sauber,10,4
+Albert Park Grand Prix Circuit,jordan,4,5
+Albert Park Grand Prix Circuit,sauber,13,6
+Albert Park Grand Prix Circuit,bar,9,7
+Albert Park Grand Prix Circuit,jaguar,21,8
+Albert Park Grand Prix Circuit,prost,14,9
+Albert Park Grand Prix Circuit,arrows,15,10
+Albert Park Grand Prix Circuit,jaguar,12,11
+Albert Park Grand Prix Circuit,minardi,19,12
+Albert Park Grand Prix Circuit,benetton,17,13
+Albert Park Grand Prix Circuit,benetton,16,14
+Albert Park Grand Prix Circuit,williams,11,15
+Albert Park Grand Prix Circuit,jordan,7,16
+Albert Park Grand Prix Circuit,mclaren,3,17
+Albert Park Grand Prix Circuit,williams,5,18
+Albert Park Grand Prix Circuit,bar,8,19
+Albert Park Grand Prix Circuit,minardi,22,20
+Albert Park Grand Prix Circuit,arrows,18,21
+Albert Park Grand Prix Circuit,prost,20,22
+Sepang International Circuit,ferrari,1,1
+Sepang International Circuit,ferrari,2,2
+Sepang International Circuit,mclaren,8,3
+Sepang International Circuit,jordan,9,4
+Sepang International Circuit,williams,3,5
+Sepang International Circuit,mclaren,4,6
+Sepang International Circuit,arrows,18,7
+Sepang International Circuit,jordan,5,8
+Albert Park Grand Prix Circuit,ferrari,2,1
+Albert Park Grand Prix Circuit,williams,6,2
+Albert Park Grand Prix Circuit,mclaren,5,3
+Albert Park Grand Prix Circuit,jaguar,19,4
+Albert Park Grand Prix Circuit,minardi,18,5
+Albert Park Grand Prix Circuit,toyota,14,6
+Albert Park Grand Prix Circuit,minardi,21,7
+Albert Park Grand Prix Circuit,jaguar,20,8
+Albert Park Grand Prix Circuit,mclaren,4,9
+Albert Park Grand Prix Circuit,bar,13,10
+Albert Park Grand Prix Circuit,arrows,15,11
+Albert Park Grand Prix Circuit,arrows,17,12
+Albert Park Grand Prix Circuit,jordan,22,13
+Albert Park Grand Prix Circuit,renault,7,14
+Albert Park Grand Prix Circuit,ferrari,1,15
+Albert Park Grand Prix Circuit,williams,3,16
+Albert Park Grand Prix Circuit,jordan,8,17
+Albert Park Grand Prix Circuit,sauber,9,18
+Albert Park Grand Prix Circuit,sauber,10,19
+Albert Park Grand Prix Circuit,renault,11,20
+Albert Park Grand Prix Circuit,bar,12,21
+Albert Park Grand Prix Circuit,toyota,16,22
+Sepang International Circuit,williams,4,1
+Sepang International Circuit,williams,2,2
+Sepang International Circuit,ferrari,1,3
+Sepang International Circuit,renault,8,4
+Sepang International Circuit,sauber,7,5
+Sepang International Circuit,sauber,14,6
+Sepang International Circuit,toyota,19,7
+Sepang International Circuit,bar,13,8
+Albert Park Grand Prix Circuit,mclaren,11,1
+Albert Park Grand Prix Circuit,williams,3,2
+Albert Park Grand Prix Circuit,mclaren,15,3
+Albert Park Grand Prix Circuit,ferrari,1,4
+Albert Park Grand Prix Circuit,renault,12,5
+Albert Park Grand Prix Circuit,sauber,4,6
+Albert Park Grand Prix Circuit,renault,10,7
+Albert Park Grand Prix Circuit,williams,9,8
+Albert Park Grand Prix Circuit,bar,6,9
+Albert Park Grand Prix Circuit,bar,8,10
+Albert Park Grand Prix Circuit,minardi,20,11
+Albert Park Grand Prix Circuit,jordan,13,12
+Albert Park Grand Prix Circuit,jaguar,18,13
+Albert Park Grand Prix Circuit,toyota,5,14
+Albert Park Grand Prix Circuit,sauber,7,15
+Albert Park Grand Prix Circuit,minardi,19,16
+Albert Park Grand Prix Circuit,jaguar,14,17
+Albert Park Grand Prix Circuit,toyota,16,18
+Albert Park Grand Prix Circuit,jordan,17,19
+Albert Park Grand Prix Circuit,ferrari,2,20
+Sepang International Circuit,mclaren,7,1
+Sepang International Circuit,ferrari,5,2
+Sepang International Circuit,renault,1,3
+Sepang International Circuit,williams,17,4
+Sepang International Circuit,renault,2,5
+Sepang International Circuit,ferrari,3,6
+Sepang International Circuit,bar,9,7
+Sepang International Circuit,sauber,6,8
+Sepang International Circuit,sauber,13,9
+Sepang International Circuit,jordan,20,10
+Albert Park Grand Prix Circuit,ferrari,1,1
+Albert Park Grand Prix Circuit,ferrari,2,2
+Albert Park Grand Prix Circuit,renault,5,3
+Albert Park Grand Prix Circuit,williams,8,4
+Albert Park Grand Prix Circuit,williams,3,5
+Albert Park Grand Prix Circuit,bar,4,6
+Albert Park Grand Prix Circuit,renault,9,7
+Albert Park Grand Prix Circuit,mclaren,12,8
+Albert Park Grand Prix Circuit,bar,7,9
+Albert Park Grand Prix Circuit,sauber,14,10
+Albert Park Grand Prix Circuit,jaguar,19,11
+Albert Park Grand Prix Circuit,toyota,13,12
+Albert Park Grand Prix Circuit,toyota,18,13
+Albert Park Grand Prix Circuit,jordan,16,14
+Albert Park Grand Prix Circuit,sauber,11,15
+Albert Park Grand Prix Circuit,jordan,15,16
+Albert Park Grand Prix Circuit,minardi,20,17
+Albert Park Grand Prix Circuit,jaguar,6,18
+Albert Park Grand Prix Circuit,minardi,17,19
+Albert Park Grand Prix Circuit,mclaren,10,20
+Sepang International Circuit,ferrari,1,1
+Sepang International Circuit,williams,4,2
+Sepang International Circuit,bar,6,3
+Sepang International Circuit,ferrari,3,4
+Sepang International Circuit,renault,8,5
+Sepang International Circuit,mclaren,9,6
+Sepang International Circuit,renault,19,7
+Sepang International Circuit,sauber,11,8
+Sepang International Circuit,toyota,10,9
+Sepang International Circuit,jaguar,13,10
+Albert Park Grand Prix Circuit,renault,1,1
+Albert Park Grand Prix Circuit,ferrari,11,2
+Albert Park Grand Prix Circuit,renault,13,3
+Albert Park Grand Prix Circuit,red_bull,5,4
+Albert Park Grand Prix Circuit,williams,3,5
+Albert Park Grand Prix Circuit,mclaren,9,6
+Albert Park Grand Prix Circuit,red_bull,6,7
+Albert Park Grand Prix Circuit,mclaren,10,8
+Albert Park Grand Prix Circuit,toyota,2,9
+Albert Park Grand Prix Circuit,sauber,18,10
+Albert Park Grand Prix Circuit,bar,8,11
+Albert Park Grand Prix Circuit,toyota,15,12
+Albert Park Grand Prix Circuit,sauber,4,13
+Albert Park Grand Prix Circuit,bar,20,14
+Albert Park Grand Prix Circuit,jordan,12,15
+Albert Park Grand Prix Circuit,jordan,14,16
+Albert Park Grand Prix Circuit,minardi,16,17
+Albert Park Grand Prix Circuit,ferrari,19,18
+Albert Park Grand Prix Circuit,williams,7,19
+Albert Park Grand Prix Circuit,minardi,17,20
+Sepang International Circuit,renault,1,1
+Sepang International Circuit,toyota,2,2
+Sepang International Circuit,williams,10,3
+Sepang International Circuit,mclaren,11,4
+Sepang International Circuit,toyota,5,5
+Sepang International Circuit,red_bull,8,6
+Sepang International Circuit,ferrari,13,7
+Sepang International Circuit,red_bull,7,8
+Sepang International Circuit,mclaren,6,9
+Sepang International Circuit,sauber,14,10
+Bahrain International Circuit,renault,4,1
+Bahrain International Circuit,ferrari,1,2
+Bahrain International Circuit,mclaren,22,3
+Bahrain International Circuit,honda,3,4
+Bahrain International Circuit,mclaren,5,5
+Bahrain International Circuit,williams,7,6
+Bahrain International Circuit,williams,12,7
+Bahrain International Circuit,red_bull,8,8
+Bahrain International Circuit,ferrari,2,9
+Bahrain International Circuit,red_bull,13,10
+Bahrain International Circuit,toro_rosso,15,11
+Bahrain International Circuit,bmw_sauber,10,12
+Bahrain International Circuit,toro_rosso,16,13
+Bahrain International Circuit,toyota,17,14
+Bahrain International Circuit,honda,6,15
+Bahrain International Circuit,toyota,14,16
+Bahrain International Circuit,mf1,19,17
+Bahrain International Circuit,super_aguri,20,18
+Bahrain International Circuit,super_aguri,21,19
+Bahrain International Circuit,bmw_sauber,11,20
+Bahrain International Circuit,renault,9,21
+Bahrain International Circuit,mf1,18,22
+Sepang International Circuit,renault,1,1
+Sepang International Circuit,renault,7,2
+Sepang International Circuit,honda,2,3
+Sepang International Circuit,mclaren,5,4
+Sepang International Circuit,ferrari,21,5
+Sepang International Circuit,ferrari,14,6
+Sepang International Circuit,bmw_sauber,10,7
+Sepang International Circuit,toyota,22,8
+Albert Park Grand Prix Circuit,ferrari,1,1
+Albert Park Grand Prix Circuit,mclaren,2,2
+Albert Park Grand Prix Circuit,mclaren,4,3
+Albert Park Grand Prix Circuit,bmw_sauber,3,4
+Albert Park Grand Prix Circuit,renault,6,5
+Albert Park Grand Prix Circuit,ferrari,22,6
+Albert Park Grand Prix Circuit,williams,12,7
+Albert Park Grand Prix Circuit,toyota,9,8
+Albert Park Grand Prix Circuit,toyota,8,9
+Albert Park Grand Prix Circuit,renault,13,10
+Albert Park Grand Prix Circuit,honda,16,11
+Albert Park Grand Prix Circuit,super_aguri,10,12
+Albert Park Grand Prix Circuit,red_bull,7,13
+Albert Park Grand Prix Circuit,toro_rosso,19,14
+Albert Park Grand Prix Circuit,honda,14,15
+Albert Park Grand Prix Circuit,super_aguri,11,16
+Albert Park Grand Prix Circuit,spyker,20,17
+Albert Park Grand Prix Circuit,williams,15,18
+Albert Park Grand Prix Circuit,red_bull,18,19
+Albert Park Grand Prix Circuit,bmw_sauber,5,20
+Albert Park Grand Prix Circuit,toro_rosso,17,21
+Albert Park Grand Prix Circuit,spyker,21,22
+Sepang International Circuit,mclaren,2,1
+Sepang International Circuit,mclaren,4,2
+Sepang International Circuit,ferrari,3,3
+Sepang International Circuit,bmw_sauber,5,4
+Sepang International Circuit,ferrari,1,5
+Sepang International Circuit,renault,12,6
+Sepang International Circuit,toyota,8,7
+Sepang International Circuit,renault,11,8
+Albert Park Grand Prix Circuit,mclaren,1,1
+Albert Park Grand Prix Circuit,bmw_sauber,5,2
+Albert Park Grand Prix Circuit,williams,7,3
+Albert Park Grand Prix Circuit,renault,11,4
+Albert Park Grand Prix Circuit,mclaren,3,5
+Albert Park Grand Prix Circuit,williams,13,6
+Albert Park Grand Prix Circuit,toro_rosso,17,7
+Albert Park Grand Prix Circuit,ferrari,15,8
+Albert Park Grand Prix Circuit,bmw_sauber,2,9
+Albert Park Grand Prix Circuit,toyota,18,10
+Albert Park Grand Prix Circuit,super_aguri,19,11
+Albert Park Grand Prix Circuit,renault,20,12
+Albert Park Grand Prix Circuit,ferrari,4,13
+Albert Park Grand Prix Circuit,red_bull,8,14
+Albert Park Grand Prix Circuit,toyota,6,15
+Albert Park Grand Prix Circuit,force_india,22,16
+Albert Park Grand Prix Circuit,red_bull,14,17
+Albert Park Grand Prix Circuit,honda,12,18
+Albert Park Grand Prix Circuit,super_aguri,21,19
+Albert Park Grand Prix Circuit,toro_rosso,9,20
+Albert Park Grand Prix Circuit,force_india,16,21
+Albert Park Grand Prix Circuit,honda,10,22
+Sepang International Circuit,ferrari,2,1
+Sepang International Circuit,bmw_sauber,4,2
+Sepang International Circuit,mclaren,8,3
+Sepang International Circuit,toyota,3,4
+Sepang International Circuit,mclaren,9,5
+Sepang International Circuit,bmw_sauber,5,6
+Sepang International Circuit,red_bull,6,7
+Sepang International Circuit,renault,7,8
+Albert Park Grand Prix Circuit,brawn,1,1
+Albert Park Grand Prix Circuit,brawn,2,2
+Albert Park Grand Prix Circuit,toyota,20,3
+Albert Park Grand Prix Circuit,toyota,19,4
+Albert Park Grand Prix Circuit,renault,10,5
+Albert Park Grand Prix Circuit,williams,5,6
+Albert Park Grand Prix Circuit,toro_rosso,13,7
+Albert Park Grand Prix Circuit,toro_rosso,17,8
+Albert Park Grand Prix Circuit,force_india,16,9
+Albert Park Grand Prix Circuit,bmw_sauber,9,10
+Albert Park Grand Prix Circuit,force_india,15,11
+Albert Park Grand Prix Circuit,red_bull,8,12
+Albert Park Grand Prix Circuit,red_bull,3,13
+Albert Park Grand Prix Circuit,bmw_sauber,4,14
+Albert Park Grand Prix Circuit,ferrari,7,15
+Albert Park Grand Prix Circuit,ferrari,6,16
+Albert Park Grand Prix Circuit,renault,14,17
+Albert Park Grand Prix Circuit,williams,11,18
+Albert Park Grand Prix Circuit,mclaren,12,19
+Albert Park Grand Prix Circuit,mclaren,18,20
+Sepang International Circuit,brawn,1,1
+Sepang International Circuit,bmw_sauber,10,2
+Sepang International Circuit,toyota,3,3
+Sepang International Circuit,toyota,2,4
+Sepang International Circuit,brawn,8,5
+Sepang International Circuit,red_bull,5,6
+Sepang International Circuit,mclaren,12,7
+Sepang International Circuit,williams,4,8
+Sepang International Circuit,ferrari,16,9
+Sepang International Circuit,toro_rosso,15,10
+Bahrain International Circuit,ferrari,3,1
+Bahrain International Circuit,ferrari,2,2
+Bahrain International Circuit,mclaren,4,3
+Bahrain International Circuit,red_bull,1,4
+Bahrain International Circuit,mercedes,5,5
+Bahrain International Circuit,mercedes,7,6
+Bahrain International Circuit,mclaren,8,7
+Bahrain International Circuit,red_bull,6,8
+Bahrain International Circuit,force_india,12,9
+Bahrain International Circuit,williams,11,10
+Bahrain International Circuit,renault,9,11
+Bahrain International Circuit,force_india,10,12
+Bahrain International Circuit,toro_rosso,18,13
+Bahrain International Circuit,williams,13,14
+Bahrain International Circuit,lotus_racing,21,15
+Bahrain International Circuit,toro_rosso,15,16
+Bahrain International Circuit,lotus_racing,20,17
+Bahrain International Circuit,sauber,14,18
+Bahrain International Circuit,hrt,23,19
+Bahrain International Circuit,virgin,19,20
+Bahrain International Circuit,renault,17,21
+Bahrain International Circuit,sauber,16,22
+Bahrain International Circuit,virgin,22,23
+Bahrain International Circuit,hrt,24,24
+Albert Park Grand Prix Circuit,mclaren,4,1
+Albert Park Grand Prix Circuit,renault,9,2
+Albert Park Grand Prix Circuit,ferrari,5,3
+Albert Park Grand Prix Circuit,ferrari,3,4
+Albert Park Grand Prix Circuit,mercedes,6,5
+Albert Park Grand Prix Circuit,mclaren,11,6
+Albert Park Grand Prix Circuit,red_bull,1,1
+Albert Park Grand Prix Circuit,mclaren,2,2
+Albert Park Grand Prix Circuit,renault,6,3
+Albert Park Grand Prix Circuit,ferrari,5,4
+Albert Park Grand Prix Circuit,red_bull,3,5
+Albert Park Grand Prix Circuit,mclaren,4,6
+Albert Park Grand Prix Circuit,ferrari,8,7
+Albert Park Grand Prix Circuit,toro_rosso,10,8
+Albert Park Grand Prix Circuit,force_india,16,9
+Albert Park Grand Prix Circuit,force_india,14,10
+Albert Park Grand Prix Circuit,toro_rosso,12,11
+Albert Park Grand Prix Circuit,renault,18,12
+Albert Park Grand Prix Circuit,lotus_racing,20,13
+Albert Park Grand Prix Circuit,virgin,22,14
+Albert Park Grand Prix Circuit,virgin,21,15
+Albert Park Grand Prix Circuit,williams,17,16
+Albert Park Grand Prix Circuit,mercedes,7,17
+Albert Park Grand Prix Circuit,lotus_racing,19,18
+Albert Park Grand Prix Circuit,mercedes,11,19
+Albert Park Grand Prix Circuit,williams,15,20
+Albert Park Grand Prix Circuit,sauber,9,21
+Albert Park Grand Prix Circuit,sauber,13,22
+Albert Park Grand Prix Circuit,hrt,0,23
+Albert Park Grand Prix Circuit,hrt,0,24
+Sepang International Circuit,red_bull,1,1
+Sepang International Circuit,mclaren,4,2
+Sepang International Circuit,renault,6,3
+Sepang International Circuit,red_bull,3,4
+Sepang International Circuit,ferrari,7,5
+Sepang International Circuit,ferrari,5,6
+Albert Park Grand Prix Circuit,mclaren,2,1
+Albert Park Grand Prix Circuit,red_bull,6,2
+Albert Park Grand Prix Circuit,mclaren,1,3
+Albert Park Grand Prix Circuit,red_bull,5,4
+Albert Park Grand Prix Circuit,ferrari,12,5
+Albert Park Grand Prix Circuit,sauber,13,6
+Albert Park Grand Prix Circuit,lotus_f1,17,7
+Albert Park Grand Prix Circuit,sauber,22,8
+Albert Park Grand Prix Circuit,toro_rosso,10,9
+Albert Park Grand Prix Circuit,force_india,15,10
+Albert Park Grand Prix Circuit,toro_rosso,11,11
+Albert Park Grand Prix Circuit,mercedes,7,12
+Albert Park Grand Prix Circuit,williams,8,13
+Albert Park Grand Prix Circuit,marussia,20,14
+Albert Park Grand Prix Circuit,marussia,21,15
+Albert Park Grand Prix Circuit,williams,14,16
+Albert Park Grand Prix Circuit,ferrari,16,17
+Albert Park Grand Prix Circuit,caterham,18,18
+Albert Park Grand Prix Circuit,caterham,19,19
+Albert Park Grand Prix Circuit,mercedes,4,20
+Albert Park Grand Prix Circuit,lotus_f1,3,21
+Albert Park Grand Prix Circuit,force_india,9,22
+Albert Park Grand Prix Circuit,hrt,0,23
+Albert Park Grand Prix Circuit,hrt,0,24
+Sepang International Circuit,ferrari,8,1
+Sepang International Circuit,sauber,9,2
+Sepang International Circuit,mclaren,1,3
+Sepang International Circuit,red_bull,4,4
+Sepang International Circuit,lotus_f1,10,5
+Sepang International Circuit,williams,13,6
+Albert Park Grand Prix Circuit,lotus_f1,7,1
+Albert Park Grand Prix Circuit,ferrari,5,2
+Albert Park Grand Prix Circuit,red_bull,1,3
+Albert Park Grand Prix Circuit,ferrari,4,4
+Albert Park Grand Prix Circuit,mercedes,3,5
+Albert Park Grand Prix Circuit,red_bull,2,6
+Albert Park Grand Prix Circuit,force_india,12,7
+Albert Park Grand Prix Circuit,force_india,9,8
+Albert Park Grand Prix Circuit,mclaren,10,9
+Albert Park Grand Prix Circuit,lotus_f1,8,10
+Albert Park Grand Prix Circuit,mclaren,15,11
+Albert Park Grand Prix Circuit,toro_rosso,13,12
+Albert Park Grand Prix Circuit,sauber,18,13
+Albert Park Grand Prix Circuit,williams,16,14
+Albert Park Grand Prix Circuit,marussia,19,15
+Albert Park Grand Prix Circuit,caterham,22,16
+Albert Park Grand Prix Circuit,marussia,20,17
+Albert Park Grand Prix Circuit,caterham,21,18
+Albert Park Grand Prix Circuit,toro_rosso,14,19
+Albert Park Grand Prix Circuit,mercedes,6,20
+Albert Park Grand Prix Circuit,williams,17,21
+Albert Park Grand Prix Circuit,sauber,11,22
+Sepang International Circuit,red_bull,1,1
+Sepang International Circuit,red_bull,5,2
+Sepang International Circuit,mercedes,4,3
+Sepang International Circuit,mercedes,6,4
+Sepang International Circuit,ferrari,2,5
+Sepang International Circuit,lotus_f1,11,6
+Sepang International Circuit,lotus_f1,10,7
+Sepang International Circuit,sauber,12,8
+Albert Park Grand Prix Circuit,mercedes,3,1
+Albert Park Grand Prix Circuit,mclaren,4,2
+Albert Park Grand Prix Circuit,mclaren,10,3
+Albert Park Grand Prix Circuit,ferrari,5,4
+Albert Park Grand Prix Circuit,williams,15,5
+Albert Park Grand Prix Circuit,force_india,7,6
+Albert Park Grand Prix Circuit,ferrari,11,7
+Albert Park Grand Prix Circuit,toro_rosso,6,8
+Albert Park Grand Prix Circuit,toro_rosso,8,9
+Albert Park Grand Prix Circuit,force_india,16,10
+Albert Park Grand Prix Circuit,sauber,13,11
+Albert Park Grand Prix Circuit,sauber,20,12
+Albert Park Grand Prix Circuit,marussia,17,13
+Albert Park Grand Prix Circuit,marussia,18,14
+Albert Park Grand Prix Circuit,lotus_f1,22,15
+Albert Park Grand Prix Circuit,lotus_f1,21,16
+Albert Park Grand Prix Circuit,caterham,19,17
+Albert Park Grand Prix Circuit,red_bull,12,18
+Albert Park Grand Prix Circuit,mercedes,1,19
+Albert Park Grand Prix Circuit,williams,9,20
+Albert Park Grand Prix Circuit,caterham,14,21
+Albert Park Grand Prix Circuit,red_bull,2,22
+Sepang International Circuit,mercedes,1,1
+Sepang International Circuit,mercedes,3,2
+Sepang International Circuit,red_bull,2,3
+Sepang International Circuit,ferrari,4,4
+Sepang International Circuit,force_india,7,5
+Sepang International Circuit,mclaren,10,6
+Sepang International Circuit,williams,13,7
+Sepang International Circuit,williams,18,8
+Albert Park Grand Prix Circuit,mercedes,1,1
+Albert Park Grand Prix Circuit,mercedes,2,2
+Albert Park Grand Prix Circuit,ferrari,4,3
+Albert Park Grand Prix Circuit,williams,3,4
+Albert Park Grand Prix Circuit,sauber,10,5
+Albert Park Grand Prix Circuit,red_bull,6,6
+Albert Park Grand Prix Circuit,force_india,13,7
+Albert Park Grand Prix Circuit,sauber,15,8
+Albert Park Grand Prix Circuit,toro_rosso,7,9
+Albert Park Grand Prix Circuit,force_india,14,10
+Albert Park Grand Prix Circuit,mclaren,16,11
+Albert Park Grand Prix Circuit,ferrari,5,12
+Albert Park Grand Prix Circuit,toro_rosso,11,13
+Albert Park Grand Prix Circuit,lotus_f1,8,14
+Albert Park Grand Prix Circuit,lotus_f1,9,15
+Albert Park Grand Prix Circuit,red_bull,12,16
+Albert Park Grand Prix Circuit,mclaren,17,17
+Albert Park Grand Prix Circuit,williams,0,18
+Sepang International Circuit,ferrari,2,1
+Sepang International Circuit,mercedes,1,2
+Sepang International Circuit,mercedes,3,3
+Sepang International Circuit,ferrari,11,4
+Sepang International Circuit,williams,8,5
+Sepang International Circuit,williams,7,6
+Sepang International Circuit,toro_rosso,6,7
+Sepang International Circuit,toro_rosso,15,8
+Sepang International Circuit,red_bull,5,9
+Sepang International Circuit,red_bull,4,10
+Sepang International Circuit,lotus_f1,10,11
+Sepang International Circuit,sauber,16,12
+Albert Park Grand Prix Circuit,mercedes,2,1
+Albert Park Grand Prix Circuit,mercedes,1,2
+Albert Park Grand Prix Circuit,ferrari,3,3
+Albert Park Grand Prix Circuit,red_bull,8,4
+Albert Park Grand Prix Circuit,williams,6,5
+Albert Park Grand Prix Circuit,haas,19,6
+Albert Park Grand Prix Circuit,force_india,10,7
+Albert Park Grand Prix Circuit,williams,16,8
+Albert Park Grand Prix Circuit,toro_rosso,7,9
+Albert Park Grand Prix Circuit,toro_rosso,5,10
+Albert Park Grand Prix Circuit,renault,13,11
+Albert Park Grand Prix Circuit,renault,14,12
+Albert Park Grand Prix Circuit,force_india,9,13
+Albert Park Grand Prix Circuit,mclaren,12,14
+Albert Park Grand Prix Circuit,sauber,17,15
+Albert Park Grand Prix Circuit,manor,21,16
+Albert Park Grand Prix Circuit,sauber,15,17
+Albert Park Grand Prix Circuit,ferrari,4,18
+Albert Park Grand Prix Circuit,manor,22,19
+Albert Park Grand Prix Circuit,haas,20,20
+Albert Park Grand Prix Circuit,mclaren,11,21
+Albert Park Grand Prix Circuit,red_bull,18,22
+Bahrain International Circuit,mercedes,2,1
+Bahrain International Circuit,ferrari,4,2
+Bahrain International Circuit,mercedes,1,3
+Bahrain International Circuit,red_bull,5,4
+Bahrain International Circuit,haas,9,5
+Bahrain International Circuit,toro_rosso,10,6
+Bahrain International Circuit,red_bull,15,7
+Bahrain International Circuit,williams,7,8
+Albert Park Grand Prix Circuit,ferrari,2,1
+Albert Park Grand Prix Circuit,mercedes,1,2
+Albert Park Grand Prix Circuit,mercedes,3,3
+Albert Park Grand Prix Circuit,ferrari,4,4
+Albert Park Grand Prix Circuit,red_bull,5,5
+Albert Park Grand Prix Circuit,williams,7,6
+Albert Park Grand Prix Circuit,force_india,10,7
+Albert Park Grand Prix Circuit,toro_rosso,8,8
+Albert Park Grand Prix Circuit,toro_rosso,9,9
+Albert Park Grand Prix Circuit,force_india,13,10
+Albert Park Grand Prix Circuit,renault,11,11
+Albert Park Grand Prix Circuit,sauber,16,12
+Albert Park Grand Prix Circuit,mclaren,18,13
+Albert Park Grand Prix Circuit,mclaren,12,14
+Albert Park Grand Prix Circuit,haas,17,15
+Albert Park Grand Prix Circuit,williams,20,16
+Albert Park Grand Prix Circuit,red_bull,0,17
+Albert Park Grand Prix Circuit,sauber,14,18
+Albert Park Grand Prix Circuit,renault,19,19
+Albert Park Grand Prix Circuit,haas,6,20
+Shanghai International Circuit,mercedes,1,1
+Shanghai International Circuit,ferrari,2,2
+Shanghai International Circuit,red_bull,16,3
+Shanghai International Circuit,red_bull,5,4
+Shanghai International Circuit,ferrari,4,5
+Shanghai International Circuit,mercedes,3,6
+Shanghai International Circuit,toro_rosso,11,7
+Shanghai International Circuit,haas,12,8
+Shanghai International Circuit,force_india,8,9
+Shanghai International Circuit,force_india,17,10
+Albert Park Grand Prix Circuit,ferrari,3,1
+Albert Park Grand Prix Circuit,mercedes,1,2
+Albert Park Grand Prix Circuit,ferrari,2,3
+Albert Park Grand Prix Circuit,red_bull,8,4
+Albert Park Grand Prix Circuit,mclaren,10,5
+Albert Park Grand Prix Circuit,red_bull,4,6
+Albert Park Grand Prix Circuit,renault,7,7
+Albert Park Grand Prix Circuit,mercedes,15,8
+Albert Park Grand Prix Circuit,mclaren,11,9
+Albert Park Grand Prix Circuit,renault,9,10
+Albert Park Grand Prix Circuit,force_india,12,11
+Albert Park Grand Prix Circuit,force_india,14,12
+Albert Park Grand Prix Circuit,sauber,18,13
+Albert Park Grand Prix Circuit,williams,13,14
+Albert Park Grand Prix Circuit,toro_rosso,16,15
+Albert Park Grand Prix Circuit,haas,6,16
+Albert Park Grand Prix Circuit,haas,5,17
+Albert Park Grand Prix Circuit,toro_rosso,20,18
+Albert Park Grand Prix Circuit,sauber,17,19
+Albert Park Grand Prix Circuit,williams,19,20
+Bahrain International Circuit,ferrari,1,1
+Bahrain International Circuit,mercedes,3,2
+Bahrain International Circuit,mercedes,9,3
+Bahrain International Circuit,toro_rosso,5,4
+Bahrain International Circuit,haas,6,5
+Bahrain International Circuit,renault,7,6
+Bahrain International Circuit,mclaren,13,7
+Bahrain International Circuit,mclaren,14,8
+Bahrain International Circuit,sauber,17,9
+Bahrain International Circuit,force_india,8,10
+Albert Park Grand Prix Circuit,mercedes,2,1
+Albert Park Grand Prix Circuit,mercedes,1,2
+Albert Park Grand Prix Circuit,red_bull,4,3
+Albert Park Grand Prix Circuit,ferrari,3,4
+Albert Park Grand Prix Circuit,ferrari,5,5
+Albert Park Grand Prix Circuit,haas,7,6
+Albert Park Grand Prix Circuit,renault,11,7
+Albert Park Grand Prix Circuit,alfa,9,8
+Albert Park Grand Prix Circuit,racing_point,16,9
+Albert Park Grand Prix Circuit,toro_rosso,15,10
+Albert Park Grand Prix Circuit,red_bull,17,11
+Albert Park Grand Prix Circuit,mclaren,8,12
+Albert Park Grand Prix Circuit,racing_point,10,13
+Albert Park Grand Prix Circuit,toro_rosso,13,14
+Albert Park Grand Prix Circuit,alfa,14,15
+Albert Park Grand Prix Circuit,williams,19,16
+Albert Park Grand Prix Circuit,williams,20,17
+Albert Park Grand Prix Circuit,haas,6,18
+Albert Park Grand Prix Circuit,renault,12,19
+Albert Park Grand Prix Circuit,mclaren,18,20
+Bahrain International Circuit,mercedes,3,1
+Bahrain International Circuit,mercedes,4,2
+Bahrain International Circuit,ferrari,1,3
+Bahrain International Circuit,red_bull,5,4
+Bahrain International Circuit,ferrari,2,5
+Bahrain International Circuit,mclaren,9,6
+Bahrain International Circuit,alfa,8,7
+Bahrain International Circuit,red_bull,13,8
+Bahrain International Circuit,toro_rosso,12,9
+Bahrain International Circuit,racing_point,14,10
+Red Bull Ring,mercedes,1,1
+Red Bull Ring,ferrari,7,2
+Red Bull Ring,mclaren,3,3
+Red Bull Ring,mercedes,5,4
+Red Bull Ring,mclaren,8,5
+Red Bull Ring,racing_point,6,6
+Red Bull Ring,alphatauri,12,7
+Red Bull Ring,renault,14,8
+Red Bull Ring,alfa,18,9
+Red Bull Ring,ferrari,11,10
+Red Bull Ring,williams,20,11
+Red Bull Ring,alphatauri,13,12
+Red Bull Ring,red_bull,4,13
+Red Bull Ring,alfa,19,14
+Red Bull Ring,williams,17,15
+Red Bull Ring,haas,15,16
+Red Bull Ring,haas,16,17
+Red Bull Ring,racing_point,9,18
+Red Bull Ring,renault,10,19
+Red Bull Ring,red_bull,2,20
+Red Bull Ring,mercedes,1,1
+Red Bull Ring,mercedes,4,2
+Red Bull Ring,red_bull,2,3
+Red Bull Ring,red_bull,6,4
+Red Bull Ring,mclaren,9,5
+Red Bull Ring,racing_point,17,6
+Red Bull Ring,racing_point,12,7
+Red Bull Ring,renault,8,8
+Red Bull Ring,mclaren,3,9
+Red Bull Ring,alphatauri,13,10
+Bahrain International Circuit,mercedes,2,1
+Bahrain International Circuit,red_bull,1,2
+Bahrain International Circuit,mercedes,3,3
+Bahrain International Circuit,mclaren,7,4
+Bahrain International Circuit,red_bull,0,5
+Bahrain International Circuit,ferrari,4,6
+Bahrain International Circuit,mclaren,6,7
+Bahrain International Circuit,ferrari,8,8
+Bahrain International Circuit,alphatauri,13,9
+Bahrain International Circuit,aston_martin,10,10
+Bahrain International Circuit,alfa,14,11
+Bahrain International Circuit,alfa,12,12
+Bahrain International Circuit,alpine,16,13
+Bahrain International Circuit,williams,15,14
+Bahrain International Circuit,aston_martin,20,15
+Bahrain International Circuit,haas,18,16
+Bahrain International Circuit,alphatauri,5,17
+Bahrain International Circuit,williams,17,18
+Bahrain International Circuit,alpine,9,19
+Bahrain International Circuit,haas,19,20
+Autodromo Enzo e Dino Ferrari,red_bull,3,1
+Autodromo Enzo e Dino Ferrari,mercedes,1,2
+Autodromo Enzo e Dino Ferrari,mclaren,7,3
+Autodromo Enzo e Dino Ferrari,ferrari,4,4
+Autodromo Enzo e Dino Ferrari,ferrari,11,5
+Autodromo Enzo e Dino Ferrari,mclaren,6,6
+Autodromo Enzo e Dino Ferrari,alphatauri,5,7
+Autodromo Enzo e Dino Ferrari,aston_martin,10,8
+Autodromo Enzo e Dino Ferrari,alpine,9,9
+Autodromo Enzo e Dino Ferrari,alpine,15,10
+Bahrain International Circuit,ferrari,1,1
+Bahrain International Circuit,ferrari,3,2
+Bahrain International Circuit,mercedes,5,3
+Bahrain International Circuit,mercedes,9,4
+Bahrain International Circuit,haas,7,5
+Bahrain International Circuit,alfa,6,6
+Bahrain International Circuit,alpine,11,7
+Bahrain International Circuit,alphatauri,16,8
+Bahrain International Circuit,alpine,8,9
+Bahrain International Circuit,alfa,15,10
+Bahrain International Circuit,haas,12,11
+Bahrain International Circuit,aston_martin,19,12
+Bahrain International Circuit,williams,14,13
+Bahrain International Circuit,mclaren,18,14
+Bahrain International Circuit,mclaren,13,15
+Bahrain International Circuit,williams,20,16
+Bahrain International Circuit,aston_martin,17,17
+Bahrain International Circuit,red_bull,4,18
+Bahrain International Circuit,red_bull,2,19
+Bahrain International Circuit,alphatauri,10,20
+Jeddah Corniche Circuit,red_bull,4,1
+Jeddah Corniche Circuit,ferrari,2,2
+Jeddah Corniche Circuit,ferrari,3,3
+Jeddah Corniche Circuit,red_bull,1,4
+Jeddah Corniche Circuit,mercedes,6,5
+Jeddah Corniche Circuit,alpine,5,6
+Jeddah Corniche Circuit,mclaren,11,7
+Jeddah Corniche Circuit,alphatauri,9,8
+Jeddah Corniche Circuit,haas,10,9
+Jeddah Corniche Circuit,mercedes,15,10
